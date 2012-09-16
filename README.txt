@@ -6,4 +6,4 @@ As the original version of Anansi CalcPad, developed by us at Seafire Software f
 
 Anansi CalcPad is being developed in joint with Oasis WebSoft for one sole reason: To bring the news of Web 2.0 to the masses in Africa. The Web as we Americans know it, in it's full beauty, is not as known in Africa, and Oasis WebSoft's goal is to fix that. Thus, they contracted us to develop this app.
 
-Basically, Anansi CalcPad is a calculator that also has a journaling side, called StoryPad, and also has a link to Google Reader (known as News Aggregator View).
+Basically, Anansi Calcpad is a tri-view program. The first view, known as CalcPad, is just a simple Calculator. The second, known as StoryPad, is a journaling side. The third, known as NewsPad, is a news aggregator.
